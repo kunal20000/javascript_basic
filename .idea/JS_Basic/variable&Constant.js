@@ -68,19 +68,19 @@ console.log('start');
 //     property/key: value
 // }
 
-let instructor={
-name: 'abhinav',
-role: 'Instructor',
-birthplace: null,
-noOfClasses: 5,
-teaching: true
-}
-let student={
-    name: 'Syed',
-    role: 'student',
-    birthPlace: null,
-    noOfClasses: 6
-}
+//let instructor={
+//name: 'abhinav',
+//role: 'Instructor',
+//birthplace: null,
+//noOfClasses: 5,
+//teaching: true
+//}
+//let student={
+//    name: 'Syed',
+//    role: 'student',
+//    birthPlace: null,
+//    noOfClasses: 6
+//}
 
 //console.log(instructor);
 //console.log(student);
@@ -119,20 +119,82 @@ let student={
 //const c = {
 //    name: 'Abhi'
 //};
-const d = 3.14; //floating value
-const e= 100; //integer value
-const f = undefined;
-const g = BigInt(23);
-const h = '';
-const i = null;
+//const d = 3.14; //floating value
+//const e= 100; //integer value
+//const f = undefined;
+//const g = BigInt(23);
+//const h = '';
+//const i = null;
 
 
 
-console.log(typeof a);
-console.log(typeof b);
-console.log(typeof c);
-console.log(typeof d);
-console.log(typeof e);
-console.log(typeof f);
-console.log(typeof g);
-console.log(typeof h);
+//console.log(typeof a);
+//console.log(typeof b);
+//console.log(typeof c);
+//console.log(typeof d);
+//console.log(typeof e);
+//console.log(typeof f);
+//console.log(typeof g);
+//console.log(typeof h);
+
+// --------------------------------------------
+// Type conversion
+
+//const a= 10
+// const b = "10"
+//const b = "10abh" // not convertable hence NAN --> not a number
+//const c = false;
+//const d = true;
+//console.log( a, typeof a);
+//console.log( b, typeof b);
+//console.log( c, typeof c);
+//console.log(Number(b), typeof(b));
+//console.log(Number(c));
+//console.log(Number(d));
+
+
+//
+//const num = 10;
+//const myNUmbers=[1,2,3,4,5,6];
+//console.log(num, String(num));
+//console.log(c, String(c));
+//console.log(d, String(d));
+//console.log(myNUmbers, String(myNUmbers));
+
+//const marks1 = "28.23dff";
+//const marks2 = "28erer";
+
+//console.log(Number(marks1),Number(marks2));
+
+// will parse the string and extract no and also always show integer value
+//console.log(parseInt(marks1), parseInt(marks2));
+//console.log(parseFloat(marks1), parseFloat(marks2));
+
+//*/
+// --------------------------------------------
+// Type coersion --> automatic type conversion if their is arithmatic operation
+// JS execute left to right
+// +, -, *, /
+
+const a = "10";
+const b = "22";
+
+console.log(a+b);// addition but concatination
+console.log(Number(a)+Number(b)); //it converts in number and add them
+
+console.log(a-b);
+console.log(Number(a)-Number(b));// will be automatically by Js
+
+console.log(a*b);
+console.log(a/b);
+
+const x =10;
+const y = "20";
+const z= 10;
+
+console.log(x+y+z);//left t0 right
+console.log(z+x+y);// right to left
+console.log(x+y+z);
+console.log(y+x+z);
+// its depend upon 1st type its string or number then work accordingly
+console..log("1"--"1");
