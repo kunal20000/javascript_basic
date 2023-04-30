@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="086be5ac-6251-43f6-b1d3-5bd14eaf7d1a" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/.idea/JS_Basic/Operator.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/JS_Basic/function.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JS_Basic/function.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/JS_Basic/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JS_Basic/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JS_Basic/Operator.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JS_Basic/Operator.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682665578000</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <created>1682671637055</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682671637055</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
