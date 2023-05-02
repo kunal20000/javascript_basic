@@ -126,7 +126,38 @@ console.log(result2);
 // 10->0
 // 00->0
 
-//8421 -->
+// bitwise operator
+// AND --> & -->
+// OR --> |
+// XOR --> ^
+// NOT --> ~ --> visit later
+// 11->1
+// 01->0
+// 10->0
+// 00->0
+// 8421
+const val1 = 4&2
+// 100
+// 010
+// -----
+// 000
+const val2 = 4|5
+// 100
+// 101
+// ----- OR
+// 101
+const val3 = 4^5
+// 100
+// 101
+// -----
+// 001
+// const val4 = ~ 3
+// 100
+// 011
+console.log(val1); //0
+console.log(val2); //5
+console.log(val3); //1
+console.log(val4);
 
 
 
