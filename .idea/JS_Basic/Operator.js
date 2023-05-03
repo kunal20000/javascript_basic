@@ -136,17 +136,17 @@ console.log(result2);
 // 10->0
 // 00->0
 // 8421
-const val1 = 4&2
+//const val1 = 4&2
 // 100
 // 010
 // -----
 // 000
-const val2 = 4|5
+//const val2 = 4|5
 // 100
 // 101
 // ----- OR
 // 101
-const val3 = 4^5
+//const val3 = 4^5
 // 100
 // 101
 // -----
@@ -154,41 +154,43 @@ const val3 = 4^5
 // const val4 = ~ 3
 // 100
 // 011
-console.log(val1); //0
-console.log(val2); //5
-console.log(val3); //1
-console.log(val4);
+//console.log(val1); //0
+//console.log(val2); //5
+//console.log(val3); //1
+//console.log(val4);
 
 
 
 
 
 
-let marks = 61;
-let passMarks = 31
+//let marks = 61;
+//let passMarks = 31
 // let timeTaken = 30;
-let result;
+//let result;
 // if(true){
 //     // this will be executed
 // } else{
 //     // not true then this
 // }
 
-console.log(71>70);
+//console.log(71>70);
+//
+//if(marks > passMarks){
+//    result = 'pass'
+//    console.log('student passed'); //1
+//}else{
+//    result = 'failed'
+//    console.log('student failed'); //2
+//}
+//
+//if(passMarks === 30){
+//    console.log('pass marks is minimal');
+//}
+//
+//console.log('result is ', result);
 
-if(marks > passMarks){
-    result = 'pass'
-    console.log('student passed'); //1
-}else{
-    result = 'failed'
-    console.log('student failed'); //2
-}
-
-if(passMarks === 30){
-    console.log('pass marks is minimal');
-}
-
-console.log('result is ', result);
+for(;;);
 
 
 
