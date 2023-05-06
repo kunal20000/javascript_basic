@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="086be5ac-6251-43f6-b1d3-5bd14eaf7d1a" name="Changes" comment="Js" />
+    <list default="true" id="086be5ac-6251-43f6-b1d3-5bd14eaf7d1a" name="Changes" comment="Javasript">
+      <change beforePath="$PROJECT_DIR$/src/Assignment/MissingNumber.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment/MissingNumber.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683385663194</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Javasript">
+      <created>1683391426479</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1683391426479</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +143,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
     <MESSAGE value="Js" />
-    <option name="LAST_COMMIT_MESSAGE" value="Js" />
+    <MESSAGE value="Javasript" />
+    <option name="LAST_COMMIT_MESSAGE" value="Javasript" />
   </component>
 </project>
