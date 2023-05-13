@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="086be5ac-6251-43f6-b1d3-5bd14eaf7d1a" name="Changes" comment="Product of digits given number">
-      <change beforePath="$PROJECT_DIR$/.idea/JS_Basic/Array.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JS_Basic/Array.js" afterDir="false" />
+    <list default="true" id="086be5ac-6251-43f6-b1d3-5bd14eaf7d1a" name="Changes" comment="Math and String">
       <change beforePath="$PROJECT_DIR$/.idea/JS_Basic/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JS_Basic/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -190,7 +189,28 @@
       <option name="project" value="LOCAL" />
       <updated>1683659237731</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="array">
+      <created>1683731808686</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1683731808686</updated>
+    </task>
+    <task id="LOCAL-00022" summary="array">
+      <created>1683798937421</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1683798937421</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Math and String">
+      <created>1683975851802</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1683975851802</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,6 +237,8 @@
     <MESSAGE value="Math Function floor" />
     <MESSAGE value="Js Properties and Method" />
     <MESSAGE value="Product of digits given number" />
-    <option name="LAST_COMMIT_MESSAGE" value="Product of digits given number" />
+    <MESSAGE value="array" />
+    <MESSAGE value="Math and String" />
+    <option name="LAST_COMMIT_MESSAGE" value="Math and String" />
   </component>
 </project>
