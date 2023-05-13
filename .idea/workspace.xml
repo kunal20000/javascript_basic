@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="086be5ac-6251-43f6-b1d3-5bd14eaf7d1a" name="Changes" comment="Dom manipulation">
-      <change afterPath="$PROJECT_DIR$/src/Assignment/JS_Dynamic_function.js" afterDir="false" />
+    <list default="true" id="086be5ac-6251-43f6-b1d3-5bd14eaf7d1a" name="Changes" comment="Js propertise &amp; Method of array">
+      <change afterPath="$PROJECT_DIR$/src/Assignment/JS_String.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -224,7 +224,28 @@
       <option name="project" value="LOCAL" />
       <updated>1684000102605</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Dynamic function">
+      <created>1684000665570</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1684000665570</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Js Math">
+      <created>1684000711578</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1684000711578</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Js propertise &amp; Method of array">
+      <created>1684000827163</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1684000827163</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -254,6 +275,9 @@
     <MESSAGE value="array" />
     <MESSAGE value="Math and String" />
     <MESSAGE value="Dom manipulation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dom manipulation" />
+    <MESSAGE value="Dynamic function" />
+    <MESSAGE value="Js Math" />
+    <MESSAGE value="Js propertise &amp; Method of array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Js propertise &amp; Method of array" />
   </component>
 </project>
