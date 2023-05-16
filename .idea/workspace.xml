@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="086be5ac-6251-43f6-b1d3-5bd14eaf7d1a" name="Changes" comment="Js propertise &amp; Method of array">
-      <change afterPath="$PROJECT_DIR$/src/Assignment/JS_String.js" afterDir="false" />
+    <list default="true" id="086be5ac-6251-43f6-b1d3-5bd14eaf7d1a" name="Changes" comment="Reverse string">
+      <change afterPath="$PROJECT_DIR$/src/Assignment/Dom_selector.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JS_DOM/dom.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JS_DOM/dom.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JS_DOM/dom.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JS_DOM/dom.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -245,7 +247,42 @@
       <option name="project" value="LOCAL" />
       <updated>1684000827163</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Js string">
+      <created>1684007141233</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1684007141233</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Js Method">
+      <created>1684007220631</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1684007220631</updated>
+    </task>
+    <task id="LOCAL-00031" summary="High performers">
+      <created>1684007278166</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1684007278166</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Js string">
+      <created>1684007348847</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1684007348847</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Reverse string">
+      <created>1684007403865</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1684007403865</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -278,6 +315,10 @@
     <MESSAGE value="Dynamic function" />
     <MESSAGE value="Js Math" />
     <MESSAGE value="Js propertise &amp; Method of array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Js propertise &amp; Method of array" />
+    <MESSAGE value="Js Method" />
+    <MESSAGE value="High performers" />
+    <MESSAGE value="Js string" />
+    <MESSAGE value="Reverse string" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reverse string" />
   </component>
 </project>

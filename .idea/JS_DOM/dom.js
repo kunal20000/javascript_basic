@@ -127,7 +127,132 @@ liElUsingQueryAll.forEach((el)=>{
 
 // });
 
+const divOne = document.getElementById('one');
+//divOne.className('green');
+//divOne.className('bgDark');
+
+console.log(divOne.classList);
+divOne.classList.add('green');
+divOne.classList.add('bgDark');
+
+console.log(divOne.classList);
+divOne.title= 'first element';
+console.log(divOne);
 
 // let str = 'bangalore'
 // let updatedStr = 'city' + str
 // 'city --> bangalore'
+
+// creating a p element
+const elOne = document.createElement('p');
+elOne.textContent = 'comment one';
+console.log(elOne);
+
+const elTwo = document.createElement('p');
+elTwo.textContent = 'comment two';
+console.log(elTwo);
+
+// select the element where we want to add the created ele
+const commentSection = document.getElementById('comments');
+// add/append the element
+console.log(commentSection);
+commentSection.appendChild(elOne);
+commentSection.appendChild(elTwo);
+
+
+elOne.style.color = 'red';
+elTwo.style.color = 'blue';
+
+commentSection.append('some string');
+
+
+
+
+//const elTwo = document.createElement('h1');
+//elTwo.textContent = ' kunal sapate';
+//console.log(elTwo);
+//
+//const elThree = document.createElement('ul');
+//elThree.textContent = 'kunal sapate';
+//console.log(elThree);
+//const elFour = document.createElement('li');
+//elFour.textContent = 'kunal ks';
+//elFour.appendChild(elThree);
+
+// create a table with 3 rows and 3 columns
+
+//create Table tag
+const tableE1 = document.createElement('table');
+// create thead tag
+const tableHeader = document.createElement('thead');
+// append it inside table
+tableE1.appendChild(tableHeader);
+console.log(tableE1);
+//create tbody tag
+const tBody = document.createElement('tbody');
+//append inside table tag
+tableE1.appendChild(tBody);
+
+// create tr tag
+const tableRow = document.createElement('tr');
+// append it inside thead
+tableHeader.appendChild(tableRow);
+//craete Th tag
+//const thTag = document.createElement('th');
+//tableRow.appendChild(thTag);
+
+
+
+function createThAndAddContent(content){
+  const thE1 = document.createElement('th');
+  thE1.textContent = content;
+  return thE1;
+}
+
+//const th1 = createThAndAddContent('product');
+//const th2 = createThAndAddContent('brand');
+//const th3 = createThAndAddContent('price');
+
+//way2
+const tableHeaderList = ['product', 'brand', 'price', 'color'];
+
+tableHeaderList.forEach((el)=>{
+const thEl = createThAndAddContent(el);
+tableRow.appendChild(thEl);
+})
+
+const tableRow2 = document.createElement('tr');
+tBody.appendChild(tableRow2);
+//const tableData = document.createElement('td');
+//tableRow2.appendChild(tableData);
+
+function createThAndAddContent2(content2){
+  const tdE1= document.createElement('td');
+  tdE1.textContent = content2;
+  return tdE1;
+}
+
+//const td1 = createThAndAddContent2('mobile');
+//const td2 = createThAndAddContent2('clothes');
+//const td3 = createThAndAddContent2('1000rs');
+//tableRow2.appendChild(td1);
+//tableRow2.appendChild(td2);
+//tableRow2.appendChild(td3);
+
+const tdList = ['mobile','clothes','1000rs','pink'];
+
+tdList.forEach((el)=>{
+const td1= createThAndAddContent2(el);
+td1.textContent= el;
+ tableRow2.appendChild(td1);
+
+})
+
+// create similarly for tr and td and add rows
+//const tableSection = document.getElementById('table');
+//tableSection.appendChild(tableEl)
+// dom Navigation
+
+const postsMainTag = document.getElementById('posts');
+console.log(postsMainTag);
+console.log(postsMainTag.childNodes[3].childNodes);
