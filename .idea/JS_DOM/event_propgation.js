@@ -23,3 +23,9 @@ sectionEl.addEventListener('click', () => {
 buttonEl.addEventListener('click', () => {
     console.log('clicked n button element');
 })
+
+
+var batman = 7;
+var superman = batman;
+superman++;
+console.log(superman);

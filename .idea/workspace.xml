@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="086be5ac-6251-43f6-b1d3-5bd14eaf7d1a" name="Changes" comment="dom selection">
+      <change beforePath="$PROJECT_DIR$/.idea/JS_DOM/event_propgation.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JS_DOM/event_propgation.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -294,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684337445742</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="dom selection">
+      <created>1684417587190</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1684417587190</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
