@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="086be5ac-6251-43f6-b1d3-5bd14eaf7d1a" name="Changes" comment="dom selection">
-      <change beforePath="$PROJECT_DIR$/.idea/JS_DOM/event_propgation.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JS_DOM/event_propgation.js" afterDir="false" />
+    <list default="true" id="086be5ac-6251-43f6-b1d3-5bd14eaf7d1a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +36,6 @@
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/lenovo/IdeaProjects/javascript&quot;
   }
 }</component>
@@ -302,7 +300,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684417587190</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="memory">
+      <created>1684852276767</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1684852276767</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -340,6 +345,7 @@
     <MESSAGE value="Js string" />
     <MESSAGE value="Reverse string" />
     <MESSAGE value="dom selection" />
-    <option name="LAST_COMMIT_MESSAGE" value="dom selection" />
+    <MESSAGE value="memory" />
+    <option name="LAST_COMMIT_MESSAGE" value="memory" />
   </component>
 </project>
