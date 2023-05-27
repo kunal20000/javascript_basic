@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="086be5ac-6251-43f6-b1d3-5bd14eaf7d1a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Event_Propagation_bubbling/EventPropagation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Event_Propagation_bubbling/EventPropagation.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -307,7 +307,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684852276767</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="assignment Event propagation">
+      <created>1685164734232</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1685164734232</updated>
+    </task>
+    <task id="LOCAL-00039" summary="assignment Event propagation">
+      <created>1685164763852</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1685164763852</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -346,6 +360,7 @@
     <MESSAGE value="Reverse string" />
     <MESSAGE value="dom selection" />
     <MESSAGE value="memory" />
-    <option name="LAST_COMMIT_MESSAGE" value="memory" />
+    <MESSAGE value="assignment Event propagation" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment Event propagation" />
   </component>
 </project>
