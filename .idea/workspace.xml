@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="086be5ac-6251-43f6-b1d3-5bd14eaf7d1a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Assignment/EmployeeConstructor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,20 +48,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682510706272</updated>
-    </task>
-    <task id="LOCAL-00003" summary="commit">
-      <created>1682665578000</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1682665578000</updated>
-    </task>
-    <task id="LOCAL-00004" summary="commit">
-      <created>1682671637055</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1682671637055</updated>
     </task>
     <task id="LOCAL-00005" summary="commit">
       <created>1682856110501</created>
@@ -392,7 +378,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685852238015</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Constructor object">
+      <created>1685852326813</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1685852326813</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Constructor object">
+      <created>1685852424170</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1685852424170</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -407,7 +407,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit" />
     <MESSAGE value="Javasript" />
     <MESSAGE value="missing Number" />
     <MESSAGE value="call back js" />
@@ -432,6 +431,7 @@
     <MESSAGE value="memory" />
     <MESSAGE value="assignment Event propagation" />
     <MESSAGE value="Js" />
-    <option name="LAST_COMMIT_MESSAGE" value="Js" />
+    <MESSAGE value="Constructor object" />
+    <option name="LAST_COMMIT_MESSAGE" value="Constructor object" />
   </component>
 </project>
