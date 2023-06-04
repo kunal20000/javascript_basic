@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="086be5ac-6251-43f6-b1d3-5bd14eaf7d1a" name="Changes" comment="" />
+    <list default="true" id="086be5ac-6251-43f6-b1d3-5bd14eaf7d1a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Assignment/EmployeeConstructor.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,20 +48,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682510706272</updated>
-    </task>
-    <task id="LOCAL-00001" summary="commit">
-      <created>1682535608086</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1682535608086</updated>
-    </task>
-    <task id="LOCAL-00002" summary="commit">
-      <created>1682665272904</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1682665272904</updated>
     </task>
     <task id="LOCAL-00003" summary="commit">
       <created>1682665578000</created>
@@ -390,7 +378,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685729386940</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Js">
+      <created>1685852161530</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1685852161530</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Js">
+      <created>1685852238015</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1685852238015</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
