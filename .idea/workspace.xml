@@ -48,13 +48,6 @@
       <option name="presentableId" value="Default" />
       <updated>1682510706272</updated>
     </task>
-    <task id="LOCAL-00009" summary="Js">
-      <created>1683313242215</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1683313242215</updated>
-    </task>
     <task id="LOCAL-00010" summary="Js">
       <created>1683385663194</created>
       <option name="number" value="00010" />
@@ -391,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685947553666</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="this keyword, date">
+      <created>1685950594844</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1685950594844</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -406,7 +406,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="missing Number" />
     <MESSAGE value="call back js" />
     <MESSAGE value="Higher Order function" />
     <MESSAGE value="Scoping" />
@@ -431,6 +430,7 @@
     <MESSAGE value="Js" />
     <MESSAGE value="Constructor object" />
     <MESSAGE value="Object methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Object methods" />
+    <MESSAGE value="this keyword, date" />
+    <option name="LAST_COMMIT_MESSAGE" value="this keyword, date" />
   </component>
 </project>
