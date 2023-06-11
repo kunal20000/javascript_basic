@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="086be5ac-6251-43f6-b1d3-5bd14eaf7d1a" name="Changes" comment="" />
+    <list default="true" id="086be5ac-6251-43f6-b1d3-5bd14eaf7d1a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Js_Core_concept/Prototype/prototypes.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Js_Core_concept/Prototype/prototypes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,14 +32,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/lenovo/IdeaProjects/javascript"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lenovo/IdeaProjects/javascript&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,20 +48,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682510706272</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Javasript">
-      <created>1683391426479</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1683391426479</updated>
-    </task>
-    <task id="LOCAL-00012" summary="missing Number">
-      <created>1683391610038</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1683391610038</updated>
     </task>
     <task id="LOCAL-00013" summary="call back js">
       <created>1683391752495</created>
@@ -389,7 +378,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685970471523</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="prototypes">
+      <created>1685970494701</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1685970494701</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Bind Method">
+      <created>1685970731619</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1685970731619</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -404,7 +407,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Higher Order function" />
     <MESSAGE value="Scoping" />
     <MESSAGE value="Array" />
     <MESSAGE value="Dynamic Function" />
@@ -429,6 +431,7 @@
     <MESSAGE value="Object methods" />
     <MESSAGE value="this keyword, date" />
     <MESSAGE value="prototypes" />
-    <option name="LAST_COMMIT_MESSAGE" value="prototypes" />
+    <MESSAGE value="Bind Method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bind Method" />
   </component>
 </project>

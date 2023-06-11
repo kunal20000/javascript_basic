@@ -164,3 +164,13 @@ console.log(player3.printFullName());
 let obj = {
     username: 'abhinav'
 }
+
+obj.address = 'india';
+// obj = {
+//     myname: 'abhi'
+// }
+
+// avoiding extending built in object
+ let arr1 = {1,4,6,8};
+ arr1.push(30);
+
