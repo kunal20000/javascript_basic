@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="086be5ac-6251-43f6-b1d3-5bd14eaf7d1a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Async javascript/async.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Async javascript/async.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/ES6/newFeaturesES6.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/ES6/newFeaturesES6.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +49,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682510706272</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Higher Order function">
-      <created>1683556848963</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1683556848963</updated>
     </task>
     <task id="LOCAL-00015" summary="Scoping">
       <created>1683557062206</created>
@@ -396,7 +386,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686507168544</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Async">
+      <created>1686668815853</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1686668815853</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -411,7 +408,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Array" />
     <MESSAGE value="Dynamic Function" />
     <MESSAGE value="Math Function floor" />
     <MESSAGE value="Js Properties and Method" />
@@ -436,6 +432,7 @@
     <MESSAGE value="prototypes" />
     <MESSAGE value="Bind Method" />
     <MESSAGE value="Js static method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Js static method" />
+    <MESSAGE value="Async" />
+    <option name="LAST_COMMIT_MESSAGE" value="Async" />
   </component>
 </project>
