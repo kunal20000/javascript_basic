@@ -1,5 +1,5 @@
 
-
+/*
 console.time();
 console.log('start');
 
@@ -105,3 +105,70 @@ function calculate(){
 }
 
 let res = calculate();
+
+console.log('start');
+
+let a = 10;
+
+function printValue(){
+ let x =10;
+ console.log('x--->', x);
+}
+
+const timer1 = setTimeout(printValue, 1000); // web apis printvalur 1sec
+
+const timer2 = setTimeout((value)=>{
+ console.log('timer second', value);
+}, 2000, "kunal");
+
+console.log('end');
+
+
+// to clear the time whose  is is passed as an argument
+// to cleanup the memory acquired by the timers
+
+setTimeout(()=>{
+  console.log('clering timer');
+  console.log(timer1);
+  console.log(timer2);
+  clearTimeout(timer1);
+  clearTimeout(timer2);
+
+}, 2000);
+
+function outer(){
+ let a =10;
+ let b = 20;
+ function inner(){
+  console.log(a);
+ }
+ inner();
+}
+
+outer();
+
+
+// setInterval
+// takes same arguments like
+// 1 --> asyncronous callback func
+// 2 --> timer
+
+// diff--> it will keep on calling the function after the time
+
+*/
+console.log('start');
+
+const intervalId = setInterval(()=>{
+ console.log('running interval');
+}, 0);
+
+console.log(setInterval);
+console.log('end');
+
+clearInterval();
+
+// start
+// 1
+// end
+// running interval --->
+

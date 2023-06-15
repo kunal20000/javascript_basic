@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="086be5ac-6251-43f6-b1d3-5bd14eaf7d1a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ES6/newFeaturesES6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ES6/newFeaturesES6.js" afterDir="false" />
+    <list default="true" id="086be5ac-6251-43f6-b1d3-5bd14eaf7d1a" name="Changes" comment="Async">
+      <change afterPath="$PROJECT_DIR$/.idea/Async javascript/Promises.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Async javascript/promises.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Async javascript/async.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Async javascript/async.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ES6/newFeaturesES6.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ES6/newFeaturesES6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +52,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682510706272</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Scoping">
-      <created>1683557062206</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1683557062206</updated>
     </task>
     <task id="LOCAL-00016" summary="Array">
       <created>1683557123947</created>
@@ -393,7 +389,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686668815853</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Async">
+      <created>1686669133353</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1686669133353</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

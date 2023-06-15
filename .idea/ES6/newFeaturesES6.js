@@ -13,3 +13,20 @@
 
 // Destructuring
 
+// let scoreInWeek1 = 45
+// let scoreInWeek2 = 43
+// let scoreInWeek3 = 47
+
+
+let  score = [45, 43 , 47];
+console.log(score);
+
+let students = ['Aswath', 'Ujjwal', 'shubham', 'Suraj'];
+
+console.log(students);
+console.log(students[0]);
+console.log(students[1]);
+console.log(students[2]);
+console.log(students[3]);
+
+
