@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="086be5ac-6251-43f6-b1d3-5bd14eaf7d1a" name="Changes" comment="Async">
-      <change afterPath="$PROJECT_DIR$/.idea/Async javascript/Promises.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Async javascript/promises.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Async javascript/async.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Async javascript/async.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ES6/newFeaturesES6.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ES6/newFeaturesES6.js" afterDir="false" />
+    <list default="true" id="086be5ac-6251-43f6-b1d3-5bd14eaf7d1a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Async javascript/Promises.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Async javascript/Promises.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,13 +49,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682510706272</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Array">
-      <created>1683557123947</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1683557123947</updated>
     </task>
     <task id="LOCAL-00017" summary="Dynamic Function">
       <created>1683655917953</created>
@@ -396,7 +386,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686669133353</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="promises">
+      <created>1686841059326</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1686841059326</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -411,7 +408,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Dynamic Function" />
     <MESSAGE value="Math Function floor" />
     <MESSAGE value="Js Properties and Method" />
     <MESSAGE value="Product of digits given number" />
@@ -436,6 +432,7 @@
     <MESSAGE value="Bind Method" />
     <MESSAGE value="Js static method" />
     <MESSAGE value="Async" />
-    <option name="LAST_COMMIT_MESSAGE" value="Async" />
+    <MESSAGE value="promises" />
+    <option name="LAST_COMMIT_MESSAGE" value="promises" />
   </component>
 </project>
