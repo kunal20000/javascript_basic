@@ -49,13 +49,6 @@
       <option name="presentableId" value="Default" />
       <updated>1682510706272</updated>
     </task>
-    <task id="LOCAL-00018" summary="Math Function floor">
-      <created>1683655988875</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1683655988875</updated>
-    </task>
     <task id="LOCAL-00019" summary="Js Properties and Method">
       <created>1683656103640</created>
       <option name="number" value="00019" />
@@ -392,7 +385,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686937591962</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="promises">
+      <created>1687109748873</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1687109748873</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
