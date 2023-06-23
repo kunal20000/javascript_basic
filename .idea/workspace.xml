@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="086be5ac-6251-43f6-b1d3-5bd14eaf7d1a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="086be5ac-6251-43f6-b1d3-5bd14eaf7d1a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,13 +46,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682510706272</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Js Properties and Method">
-      <created>1683656103640</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1683656103640</updated>
     </task>
     <task id="LOCAL-00020" summary="Product of digits given number">
       <created>1683659237731</created>
@@ -392,7 +383,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687109748873</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="RegEx">
+      <created>1687444724888</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1687444724904</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -407,7 +405,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Math Function floor" />
     <MESSAGE value="Js Properties and Method" />
     <MESSAGE value="Product of digits given number" />
     <MESSAGE value="array" />
@@ -432,6 +429,7 @@
     <MESSAGE value="Js static method" />
     <MESSAGE value="Async" />
     <MESSAGE value="promises" />
-    <option name="LAST_COMMIT_MESSAGE" value="promises" />
+    <MESSAGE value="RegEx" />
+    <option name="LAST_COMMIT_MESSAGE" value="RegEx" />
   </component>
 </project>
