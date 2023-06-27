@@ -51,13 +51,6 @@
       <option name="presentableId" value="Default" />
       <updated>1682510706272</updated>
     </task>
-    <task id="LOCAL-00025" summary="Dom manipulation">
-      <created>1684000102605</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1684000102605</updated>
-    </task>
     <task id="LOCAL-00026" summary="Dynamic function">
       <created>1684000665570</created>
       <option name="number" value="00026" />
@@ -394,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687618881281</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Random User">
+      <created>1687874237108</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1687874237108</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
