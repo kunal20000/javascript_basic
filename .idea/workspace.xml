@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="086be5ac-6251-43f6-b1d3-5bd14eaf7d1a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Contest/TypingGame/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contest/TypingGame/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contest/TypingGame/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contest/RandomUser/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contest/RandomUser/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,20 +50,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682510706272</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Math and String">
-      <created>1683975851802</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1683975851802</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Dom manipulation">
-      <created>1683985307831</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1683985307831</updated>
     </task>
     <task id="LOCAL-00025" summary="Dom manipulation">
       <created>1684000102605</created>
@@ -395,7 +380,21 @@
       <option name="project" value="LOCAL" />
       <updated>1687543715987</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="Typing game">
+      <created>1687618675875</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1687618675875</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Github issue">
+      <created>1687618881281</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1687618881281</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -410,8 +409,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="array" />
-    <MESSAGE value="Math and String" />
     <MESSAGE value="Dom manipulation" />
     <MESSAGE value="Dynamic function" />
     <MESSAGE value="Js Math" />
@@ -435,6 +432,8 @@
     <MESSAGE value="RegEx" />
     <MESSAGE value="contest question online notepad" />
     <MESSAGE value="contest question Time delay" />
-    <option name="LAST_COMMIT_MESSAGE" value="contest question Time delay" />
+    <MESSAGE value="Typing game" />
+    <MESSAGE value="Github issue" />
+    <option name="LAST_COMMIT_MESSAGE" value="Github issue" />
   </component>
 </project>
