@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="086be5ac-6251-43f6-b1d3-5bd14eaf7d1a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Contest/RandomUser/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contest/RandomUser/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,13 +48,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682510706272</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Dynamic function">
-      <created>1684000665570</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1684000665570</updated>
     </task>
     <task id="LOCAL-00027" summary="Js Math">
       <created>1684000711578</created>
@@ -394,7 +385,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687874237108</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="Random User">
+      <created>1687874369200</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1687874369200</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -409,7 +407,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Dom manipulation" />
     <MESSAGE value="Dynamic function" />
     <MESSAGE value="Js Math" />
     <MESSAGE value="Js propertise &amp; Method of array" />
@@ -434,6 +431,7 @@
     <MESSAGE value="contest question Time delay" />
     <MESSAGE value="Typing game" />
     <MESSAGE value="Github issue" />
-    <option name="LAST_COMMIT_MESSAGE" value="Github issue" />
+    <MESSAGE value="Random User" />
+    <option name="LAST_COMMIT_MESSAGE" value="Random User" />
   </component>
 </project>
