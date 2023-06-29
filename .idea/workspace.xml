@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="086be5ac-6251-43f6-b1d3-5bd14eaf7d1a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="086be5ac-6251-43f6-b1d3-5bd14eaf7d1a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,13 +46,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682510706272</updated>
-    </task>
-    <task id="LOCAL-00027" summary="Js Math">
-      <created>1684000711578</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1684000711578</updated>
     </task>
     <task id="LOCAL-00028" summary="Js propertise &amp; Method of array">
       <created>1684000827163</created>
@@ -392,7 +383,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687874369200</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="Es6 getter and setter">
+      <created>1687975306500</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1687975306502</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -407,7 +405,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Dynamic function" />
     <MESSAGE value="Js Math" />
     <MESSAGE value="Js propertise &amp; Method of array" />
     <MESSAGE value="Js Method" />
@@ -432,6 +429,7 @@
     <MESSAGE value="Typing game" />
     <MESSAGE value="Github issue" />
     <MESSAGE value="Random User" />
-    <option name="LAST_COMMIT_MESSAGE" value="Random User" />
+    <MESSAGE value="Es6 getter and setter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Es6 getter and setter" />
   </component>
 </project>
