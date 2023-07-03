@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="086be5ac-6251-43f6-b1d3-5bd14eaf7d1a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="086be5ac-6251-43f6-b1d3-5bd14eaf7d1a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,13 +46,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682510706272</updated>
-    </task>
-    <task id="LOCAL-00035" summary="dom selection">
-      <created>1684337445742</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1684337445742</updated>
     </task>
     <task id="LOCAL-00036" summary="dom selection">
       <created>1684417587190</created>
@@ -392,7 +383,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688062684845</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="Js currying">
+      <created>1688406667286</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1688406667286</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -407,7 +405,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="dom selection" />
     <MESSAGE value="memory" />
     <MESSAGE value="assignment Event propagation" />
     <MESSAGE value="Js" />
@@ -432,6 +429,7 @@
     <MESSAGE value="product constructor" />
     <MESSAGE value="Es6 this keyword" />
     <MESSAGE value="Js prototype inheritance" />
-    <option name="LAST_COMMIT_MESSAGE" value="Js prototype inheritance" />
+    <MESSAGE value="Js currying" />
+    <option name="LAST_COMMIT_MESSAGE" value="Js currying" />
   </component>
 </project>
