@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="086be5ac-6251-43f6-b1d3-5bd14eaf7d1a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Assignment/AppointmentConstructor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,34 +48,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682510706272</updated>
-    </task>
-    <task id="LOCAL-00031" summary="High performers">
-      <created>1684007278166</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1684007278166</updated>
-    </task>
-    <task id="LOCAL-00032" summary="Js string">
-      <created>1684007348847</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1684007348847</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Reverse string">
-      <created>1684007403865</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1684007403865</updated>
-    </task>
-    <task id="LOCAL-00034" summary="dom selection">
-      <created>1684251396553</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1684251396553</updated>
     </task>
     <task id="LOCAL-00035" summary="dom selection">
       <created>1684337445742</created>
@@ -392,7 +364,35 @@
       <option name="project" value="LOCAL" />
       <updated>1688062086228</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="Appointment constructor">
+      <created>1688062213331</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1688062213331</updated>
+    </task>
+    <task id="LOCAL-00081" summary="product constructor">
+      <created>1688062361675</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1688062361675</updated>
+    </task>
+    <task id="LOCAL-00082" summary="Es6 this keyword">
+      <created>1688062470949</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1688062470949</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Js prototype inheritance">
+      <created>1688062684845</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1688062684845</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -407,10 +407,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Js Method" />
-    <MESSAGE value="High performers" />
-    <MESSAGE value="Js string" />
-    <MESSAGE value="Reverse string" />
     <MESSAGE value="dom selection" />
     <MESSAGE value="memory" />
     <MESSAGE value="assignment Event propagation" />
@@ -432,6 +428,10 @@
     <MESSAGE value="Es6 getter and setter" />
     <MESSAGE value="reset" />
     <MESSAGE value="prototype" />
-    <option name="LAST_COMMIT_MESSAGE" value="prototype" />
+    <MESSAGE value="Appointment constructor" />
+    <MESSAGE value="product constructor" />
+    <MESSAGE value="Es6 this keyword" />
+    <MESSAGE value="Js prototype inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="Js prototype inheritance" />
   </component>
 </project>
