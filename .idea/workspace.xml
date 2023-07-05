@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="086be5ac-6251-43f6-b1d3-5bd14eaf7d1a" name="Changes" comment="" />
+    <list default="true" id="086be5ac-6251-43f6-b1d3-5bd14eaf7d1a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,13 +48,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682510706272</updated>
-    </task>
-    <task id="LOCAL-00036" summary="dom selection">
-      <created>1684417587190</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1684417587190</updated>
     </task>
     <task id="LOCAL-00037" summary="memory">
       <created>1684852276767</created>
@@ -390,7 +385,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688406667286</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="prototype">
+      <created>1688406820361</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1688406820366</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -424,12 +426,12 @@
     <MESSAGE value="Random User" />
     <MESSAGE value="Es6 getter and setter" />
     <MESSAGE value="reset" />
-    <MESSAGE value="prototype" />
     <MESSAGE value="Appointment constructor" />
     <MESSAGE value="product constructor" />
     <MESSAGE value="Es6 this keyword" />
     <MESSAGE value="Js prototype inheritance" />
     <MESSAGE value="Js currying" />
-    <option name="LAST_COMMIT_MESSAGE" value="Js currying" />
+    <MESSAGE value="prototype" />
+    <option name="LAST_COMMIT_MESSAGE" value="prototype" />
   </component>
 </project>
