@@ -55,3 +55,82 @@ console.log(numbers);
 
 // filters
 
+const numbers = [1,2,3,4,5];
+
+const evenNumbers = numbers.filter(value=>{
+    return value%2==0;
+})
+
+console.log(evenNumbers);
+
+const person = 
+    [
+     { 
+         name:"kunal",
+         age: 24
+     },
+     {   
+         name:'shubham',
+         age: 12
+     },
+     {   
+         name: "jay",
+         age: 25
+     }
+    ];
+    
+    const adults = person.filter(person=> person.age>=18);
+    console.log(adults);
+    
+    const numbersWithSame = [1,2,3,2,1,3,3,5,4,6];
+    
+    const sameNumber = numbersWithSame.filter((value,index,array)=>{
+        return array.indexOf(value) === index;
+    })
+    console.log(sameNumber);
+    
+
+    //reduce
+
+    const num =[10,2,3,39,5];
+
+const total = num.reduce((accumulator,value,index,arr)=>{
+    return accumulator + value;
+})
+
+console.log(total);
+
+const max = num.reduce((accumulator,value)=>
+{
+    if(accumulator> value){
+        return accumulator;
+    }else{
+        return value;
+    }
+})
+console.log(max);
+
+const store = 
+[
+    {  
+        product:'laptop',
+        value:1000,
+        count:3
+    },
+    {
+        product:'desktop',
+        value: 1500,
+        count: 4
+    },
+    {
+        product: 'mobile',
+        value: 500,
+        count: 10
+    }
+];
+
+const totalValueStore = store.reduce((accumulator,item)=>
+     accumulator+ item.value * item.count,0 
+     // 0 is the initial total
+);
+console.log(totalValueStore);
